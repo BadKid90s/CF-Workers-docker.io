@@ -1,0 +1,6 @@
+name = "docker"
+main = "_worker.js"
+compatibility_date = "2025-12-23"
+
+keep_vars = true
+
